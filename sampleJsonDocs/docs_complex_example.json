@@ -1,0 +1,24 @@
+{
+  "DocId": "AWS",
+  "User": {
+    "Id": 1234,
+    "Username": "bob1234",
+    "Name": "Bob",
+    "ShippingAddress": {
+      "Address1": "123 Main St.",
+      "Address2": null,
+      "City": "Seattle",
+      "State": "WA"
+    },
+    "Orders": [
+      {
+        "ItemId": 6789,
+        "OrderDate": "11/11/2012"
+      },
+      {
+        "ItemId": 4352,
+        "OrderDate": "12/12/2012"
+      }
+    ]
+  }
+}
